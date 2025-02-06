@@ -43,10 +43,10 @@ body {
     color: black;
     transition: 0.3s;
 }
-.nav-links li:nth-child(1) a { color: orange; }
-.nav-links li:nth-child(2) a { color: #528de7; }
-.nav-links li:nth-child(3) a { color: #46c5e9; }
-.nav-links li:nth-child(4) a { color: #7b5de3; }
+.nav-links li:nth-child(1) a { color: orange; } /* Home */
+.nav-links li:nth-child(2) a { color: #528de7; } /* About */
+.nav-links li:nth-child(3) a { color: #46c5e9; } /* Services */
+.nav-links li:nth-child(4) a { color: #7b5de3; } /* Contacts */
 
 /* Contact Button */
 .contact-btn {
@@ -239,7 +239,7 @@ body {
 
 
 /* Our Stories Section */
-/* Our Stories Section */
+
 .stories {
     text-align: center;
     padding: 60px 5%;
